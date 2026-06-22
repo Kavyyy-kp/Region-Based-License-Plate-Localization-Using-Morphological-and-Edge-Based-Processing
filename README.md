@@ -1,0 +1,2 @@
+# Region-Based-License-Plate-Localization-Using-Morphological-and-Edge-Based-Processing
+Developed a lightweight Java-based license plate localization system using classical image processing techniques. The pipeline applies median filtering, histogram equalization, Canny edge detection, and morphological operations to detect plate regions, while geometric constraints and aspect ratio filtering improve accuracy and efficiency.
