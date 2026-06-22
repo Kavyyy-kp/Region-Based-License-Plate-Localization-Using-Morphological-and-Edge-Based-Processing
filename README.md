@@ -26,11 +26,17 @@ The primary objective of the project is to accurately localize license plate reg
 ## Project Structure
 
 ```text
-project-root/
+ANPR/
 │
 ├── src/
-│   ├── Main.java
-│   └── Processing modules
+│   └── ANPR GUI
+│   └── Binarization
+│   └── DetectNoPlate
+│   └── Edge_detection
+│   └── Grayscale
+│   └── ImageViewer
+│   └── Morphology
+│   └── PlateLocalization
 │
 ├── bin/
 │   └── Compiled Java classes
